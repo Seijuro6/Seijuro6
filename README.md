@@ -1,8 +1,8 @@
 # 💫 About Me:
-soy un priogramador ful stack con muchas ganas de aprender y enfrentarme a retos en este grandioso mundo de las tecnologia y la programacion<br>
-con mi curva de aprendizaje y mi capacidad para solucionar ademas de mis capacidad para tarbajar en equipo, la curiosidad y la capacidad <br>
-de afrontar retos con la mejor actitud incluyendo mi capacidad para liderar grandes y pequeños grupos no solo en el area tecnica sino tambien <br>
-en el area emocional
+soy un priogramador ful stack con muchas ganas de aprender y enfrentarme a retos en este grandioso mundo de las tecnologia y<br>
+la programacion con mi curva de aprendizaje y mi capacidad para solucionar ademas de mis capacidad para tarbajar en equipo,<br>
+la curiosidad y la capacidad de afrontar retos con la mejor actitud incluyendo mi capacidad para liderar grandes y pequeños<br>
+grupos no solo en el area tecnica sino tambien en el area emocional
 
 
 ## 🌐 Socials:
